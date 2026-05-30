@@ -800,7 +800,10 @@ footer a:hover { color: white; }
     <div class="bloque">
       <div class="bloque-header">🗓️ Calendario de Atención en la Sede del Consulado</div>
       <div class="bloque-body">
-        <p style="font-size:13px; color:var(--suave); margin-bottom:4px;">Días y servicios disponibles presencialmente:</p>
+        <p style="font-size:13px; color:var(--suave); margin-bottom:4px;">Días disponibles para agendar cita a través de los <strong>canales oficiales</strong> (portal web o WhatsApp):</p>
+        <div class="aviso-azul" style="margin-bottom:12px;">
+          ℹ️ Las citas <strong>no son presenciales</strong> — deben agendarse previamente por <strong>citas.sre.gob.mx</strong> o por WhatsApp al <strong>+1 (424) 309-0009</strong>.
+        </div>
         <div class="cal-grid">
           <div class="cal-item">
             <div class="cal-dia">Martes</div>
