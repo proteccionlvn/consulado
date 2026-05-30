@@ -789,7 +789,7 @@ footer a:hover { color: white; }
     <div class="bloque">
       <div class="bloque-header">🌐 Agendar Cita — MiConsulado</div>
       <div class="bloque-body">
-        <p style="font-size:14px; margin-bottom:14px;">Agenda tu cita a través del portal oficial o por WhatsApp:</p>
+        <p style="font-size:14px; margin-bottom:14px;">Agenda tu cita a través del portal oficial, llamada o por WhatsApp:</p>
         <div class="btns-row">
           <a class="btn btn-v" href="https://citas.sre.gob.mx" target="_blank">🌐 citas.sre.gob.mx</a>
           <a class="btn btn-o" href="https://wa.me/14243090009?text=Hola" target="_blank">💬 WhatsApp +1 (424) 309-0009</a>
@@ -802,7 +802,7 @@ footer a:hover { color: white; }
       <div class="bloque-body">
         <p style="font-size:13px; color:var(--suave); margin-bottom:4px;">Días disponibles para agendar cita a través de los <strong>canales oficiales</strong> (portal web o WhatsApp):</p>
         <div class="aviso-azul" style="margin-bottom:12px;">
-          ℹ️ Las citas <strong>no son presenciales</strong> — deben agendarse previamente por <strong>citas.sre.gob.mx</strong> o por WhatsApp al <strong>+1 (424) 309-0009</strong>.
+          ℹ️ Las citas <strong>no son presenciales</strong> — deben agendarse previamente por <strong>citas.sre.gob.mx</strong> llamada o por WhatsApp al <strong>+1 (424) 309-0009</strong>.
         </div>
         <div class="cal-grid">
           <div class="cal-item">
